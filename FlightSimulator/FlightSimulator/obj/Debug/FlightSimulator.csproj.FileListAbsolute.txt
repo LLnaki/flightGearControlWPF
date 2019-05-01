@@ -1,0 +1,168 @@
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.Communication.dll
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.Communication.pdb
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilotView.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\InterpreterView.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\App.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilotView.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\InterpreterView.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.baml
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.g.cs
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.baml
+D:\lev\BIU\שנה ב\סמסטר ב\Advanced Programming 2\Home-work\ex2(MileStone3)\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.baml
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\aleks\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+F:\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+F:\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+F:\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+F:\Lev\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+F:\Lev\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.baml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.baml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.baml
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+F:\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\AutoPilotControl.baml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\ManualControl.baml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.baml
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\1noam\Desktop\Lev\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb

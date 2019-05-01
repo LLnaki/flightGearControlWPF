@@ -1,0 +1,51 @@
+﻿<Window x:Class="FlightSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlightSimulator"
+        xmlns:mainComponents="clr-namespace:FlightSimulator.Views"
+        xmlns:windows="clr-namespace:FlightSimulator.Views.Windows"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" >
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <Viewbox Grid.ColumnSpan="3"  HorizontalAlignment="Center" Height="60">
+            <Label FontSize="22" Foreground="BlueViolet" FontWeight="Heavy" Margin="0,5,0,5">Flight Simulator</Label>
+        </Viewbox>
+        <Viewbox Grid.Row="1" Grid.ColumnSpan="2" Margin="0,0,0,5">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button  Margin="10,0,0,0" Name="settingsButton"   Height="25" Width="50"
+                HorizontalContentAlignment="Center" VerticalContentAlignment="Center" 
+                         Background="Azure" Command="{Binding SettingsCommand}">settings</Button>
+                <Button Name="connectButton" Margin="5,0,0,0" Height="25" Width="50"
+                    HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                        Background="Azure"  Command="{Binding ConnectCommand}">connect</Button>
+            </StackPanel>
+        </Viewbox>
+
+        <mainComponents:FlightBoard Grid.Row="2" Grid.ColumnSpan="2" Margin="0,0,10,0" DataContext="{Binding FlightBViewModel}"/>
+        <TabControl Grid.Row="1" Grid.Column="2" Grid.RowSpan="2">
+            <TabItem Header="Manual">
+                <Viewbox >
+                    <windows:ManualControl DataContext="{Binding ManualConViewModel}"/>
+                </Viewbox>
+            </TabItem>
+            <TabItem Header="Auto Pilot">
+                <Viewbox>
+                    <windows:AutoPilotControl DataContext="{Binding AutoPilViewModel}"/>
+                </Viewbox>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
